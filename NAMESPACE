@@ -2,8 +2,10 @@
 
 export(add_map_labels)
 export(backtransform_normal)
+export(calculate_cold_pool_area)
 export(change_fill_color)
 export(change_text_size)
+export(cpa_from_raster)
 export(create_map_file)
 export(eval_plot_breaks)
 export(generate_layer_guide)
